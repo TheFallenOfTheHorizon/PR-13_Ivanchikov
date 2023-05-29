@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PR-13_Ivanchikov</string>
+    <string name="hello">Привет</string>
+    <string name="intriductiontext">
+        Наслаждайся отборочными.
+        Будь внимателен.
+        Делай хорошо.
+    </string>
+    <string name="start">Войти в аккаунт</string>
+    <string name="register">Ещё нет аккаунта? Зарегистрируйтесь</string>
+    <string name="signin">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="registerbutton">Register</string>
+</resources>
